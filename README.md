@@ -1,7 +1,7 @@
 
 # Online Shopping Cart
 
-An online shopping cart application developed in Python.
+An online shopping cart application developed in Python.Made by Tahir Ali, NEDUET CIS Department Student batch 2023. This is first semester CEP project.
 
 ## Instructions
 
