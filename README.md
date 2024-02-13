@@ -14,23 +14,20 @@ Before running the main program, ensure that the required dependencies are insta
 #### For Windows Users:
 
 Run the following command in the terminal:
-
 ```bash
 install_dependencies.bat
- 
-Or you can run this file if windows
-install_dependencies_window.bat
 ```
-For Linux/Mac Users:
-Run the following command in the terminal:
+Or you can run this file name as:
+<b>install_dependencies_window.bat</b>
 
+<b>For Linux/Mac Users:</b>
+Run the following command in the terminal:
 ```bash
 ./install_dependencies.sh
 ```
-For other then windows:
-Or you can run this file if other then windows:
-```bash
-install_dependencies_otherwindows.bat
-```
+
+Or you can run this file name as:
+<b>install_dependencies_otherwindows.bat</b>
+
 ### 2. Run the Main Program
 Once the dependencies are installed, you can run the main Python file to execute the program.
